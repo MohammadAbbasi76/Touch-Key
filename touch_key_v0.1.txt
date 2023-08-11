@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\project\altiume\touch_key\touch_key_v0.1.PcbDoc
+Date         : 12/6/2022
+Time         : 6:40:46 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 133
+    Connections routed, 133
+    Connections remaining, 0
+count : 4
